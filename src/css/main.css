@@ -1,1 +1,22 @@
 /* Your CSS here. */
+.background {
+    background-color: #b8b8b8;
+    width: 90%;
+    max-width: 700px; 
+    padding: 40px;
+    border-radius: 12px;
+    margin: 20px auto;
+    text-align: center;
+}
+.pic { 
+    display: block;
+    height: 150px;
+    width: 150px;
+    margin: 0 auto;
+}
+.introduction { 
+    text-align: justify;
+    text-justify: in-word;
+    hyphens: none;
+    margin: 15px 0;
+}
